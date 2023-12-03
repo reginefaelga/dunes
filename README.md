@@ -1,7 +1,6 @@
 # dunes
 Dataset for the study "Dune belt restoration effectiveness assessed by UAV topographic surveys (northern Adriatic coast, Italy)"
-Faelga, R.A., Cantelli, L., Silvestri, S., Giambastiani, B.M.S.
-2023
+Faelga, R.A., Cantelli, L., Silvestri, S., Giambastiani, B.M.S., 2023
 
 Data information:
 1. DTMvalidation_script_RAF.py - script of the validation between DTM vs GPS elevation data
