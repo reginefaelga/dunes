@@ -14,4 +14,4 @@ Data information:
 Due to file size restriction, orthophotos cannot be uploaded here. For inquiries, please email regineanne.faelga@studio.unibo.it 
 
 To cite content from this repository:
-Faelga, R.A., Cantelli, L., Silvestri, S., Giambastiani, B.M.S.: Dataset for the study ‘Dune belt restoration effectiveness assessed by UAV topographic surveys (northern Adriatic coast, Italy), Github Repository, 2023. 
+Faelga, R.A., Cantelli, L., Silvestri, S., Giambastiani, B.M.S.: Dataset for the study ‘Dune belt restoration effectiveness assessed by UAV topographic surveys (northern Adriatic coast, Italy), Github Repository, https://doi.org/10.5281/zenodo.10253228, 2023. 
