@@ -3,7 +3,7 @@ Dataset for the study "Dune belt restoration effectiveness assessed by UAV topog
 Faelga, R.A., Cantelli, L., Silvestri, S., Giambastiani, B.M.S., 2023
 
 Data information:
-1. DTMvalidation_script_RAF.py - script of the validation between DTM vs GPS elevation data
+1. DTMvalidation_script_RAF.py - script of the validation between DTM vs GPS elevation data*
 2. CSV_2021_data folder - contains the .csv files of the GPS profiles. This is the input for the validation script
 3. DoD_thresholded (.tif, .ovr, .xml) - raster data of the 2016 vs 2021 DEM comparison
 4. veg_cover_data.zip - contains the shapefiles for the vegetation cover analysis.
@@ -13,5 +13,6 @@ Data information:
 
 Due to file size restriction, orthophotos cannot be uploaded here. For inquiries, please email regineanne.faelga@studio.unibo.it 
 
-To cite content from this repository:
-Faelga, R.A., Cantelli, L., Silvestri, S., Giambastiani, B.M.S.: Dataset for the study ‘Dune belt restoration effectiveness assessed by UAV topographic surveys (northern Adriatic coast, Italy), Github Repository, https://doi.org/10.5281/zenodo.10253228, 2023. 
+To cite content from this repository: Faelga, R.A., Cantelli, L., Silvestri, S., Giambastiani, B.M.S.: Dataset for the study 'Dune belt restoration effectiveness assessed by UAV topographic surveys (northern Adriatic coast, Italy), v1.0.0, Zenodo [data set],  https://doi.org/10.5281/zenodo.10253228, 2023.
+
+*Acknowledgement extended to Matteo Corvi for the assistance in refining the Python script.
